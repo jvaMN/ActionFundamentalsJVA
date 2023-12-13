@@ -40,6 +40,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Using the GitHub API and Octokit
 - [ ] Job descriptions
 - [ ] ffffffffffffffffffffffffffff
+- [ ] ddddddddddddddddddddddd
 
 ### Day 2
 - [ ] Introduction

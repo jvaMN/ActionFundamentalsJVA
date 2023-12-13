@@ -39,6 +39,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Sharing and releasing actions
 - [ ] Using the GitHub API and Octokit
 - [ ] Job descriptions
+- [ ] ffffffffffffffffffffffffffff
 
 ### Day 2
 - [ ] Introduction
